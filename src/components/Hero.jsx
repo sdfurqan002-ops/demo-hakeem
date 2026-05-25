@@ -25,7 +25,7 @@ export default function Hero() {
 
             <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold text-white leading-tight mb-3 font-serif">
               Natural Cure <br />
-              <span className="text-yellow-400">Unani Clinic</span>
+              <span className="text-yellow-400">Unani Clinic at Umarkhed</span>
             </h1>
 
             <p className="text-emerald-100 text-lg md:text-xl mb-5 leading-relaxed">
