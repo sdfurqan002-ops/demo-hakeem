@@ -20,7 +20,7 @@ export default function Hero() {
           <div className="fade-up">
             {/* Badge */}
             <span className="inline-block bg-emerald-700 bg-opacity-60 text-emerald-100 text-xs font-semibold uppercase tracking-widest px-3 py-1 rounded-full mb-5">
-              Trusted Unani Healthcare Since 2014
+              Trusted Unani Healthcare Since 2016
             </span>
 
             <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold text-white leading-tight mb-3 font-serif">
